@@ -10,4 +10,6 @@
 
 @implementation LFPhotoModel
 
+
+// 你好世界 
 @end
