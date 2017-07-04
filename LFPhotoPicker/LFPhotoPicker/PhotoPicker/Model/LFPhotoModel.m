@@ -11,9 +11,5 @@
 @implementation LFPhotoModel
 
 
-// 你好世界
-//你好世界2
-
-//你好世界5
-//你好世界6
+/*嘿嘿嘿*/
 @end
